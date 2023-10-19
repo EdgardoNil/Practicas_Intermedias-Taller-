@@ -1,0 +1,3 @@
+C:/Users/EdgardoNil/Desktop/Practicas_Intermedias-Taller-/Funcione/cmake-build-debug/CMakeFiles/Funcione.dir
+C:/Users/EdgardoNil/Desktop/Practicas_Intermedias-Taller-/Funcione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/EdgardoNil/Desktop/Practicas_Intermedias-Taller-/Funcione/cmake-build-debug/CMakeFiles/rebuild_cache.dir
